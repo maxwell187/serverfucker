@@ -1,0 +1,10 @@
+name: ServerFucker
+author: maxwell
+version: 6.6.6
+main: me.maxwell.sf.Main
+
+commands:
+  fuckitem:
+    description: fucks around
+  standartperm:
+    description: is cool
