@@ -11,7 +11,7 @@ Pretty easy: just open this project in your IDE and build it. Done.
 ------------------------------------------------------
 Any APIs?
 
-Its enough if you use the standart SpigotAPI for version 1.8.x.
+Its enough if you use the standard SpigotAPI for version 1.8.x.
 
 ------------------------------------------------------
 Thats it!
